@@ -1,0 +1,13 @@
+Install and set up a MySQL server on your machine.
+
+In the provided zip file, locate the "db" folder and run the "antiragging.sql" file using MySQL Workbench or a similar tool.
+
+Open the "app.js" file from the zip file, and in the extracted zip file location, open a terminal. Run the command npm install to install the necessary dependencies.
+
+After the installation is complete, open the "app.js" file and update the "user" and "password" fields with your MySQL database details.
+
+In the terminal, run the command node app.js to start the application.
+
+Open a web browser and enter "localhost:3000" in the address bar.
+
+You will see that the application is running successfully.
